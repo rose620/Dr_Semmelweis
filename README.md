@@ -1,2 +1,2 @@
 # Dr_Semmelweis
-Utilizing data manipulation with pandas, bootstrap statistical analysis and data visualization to plot both clinic observations in a single plot to validate Dr. Semmelweis's hypothesis in this DataCamp project
+This DataCamp project utilizes data manipulation with pandas, bootstrap statistical analysis and data visualizations to plot two clinic observations on a single plot in order to validate Dr. Semmelweis's hypothesis about hand-washing and puerperal fever
